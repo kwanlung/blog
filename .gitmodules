@@ -1,0 +1,4 @@
+[submodule "deanblog/public"]
+	path = deanblog/public
+	url = https://github.com/kwanlung/kwanlung.github.io.git
+	branch = main
