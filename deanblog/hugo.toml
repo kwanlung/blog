@@ -10,10 +10,10 @@ enableEmoji = true
 noClasses = false
 
 [params]
-author = "Dean Ng"
+author = "Dean Ng Kwan Lung"
 description = "Dean's personal website"
 keywords = "blog,developer,personal"
-info = ["Full Stack Software Engineer"]
+info = ["Software Engineer"]
 avatarURL = "/images/dean.png"
 rtl = false
 colorScheme = "auto"
