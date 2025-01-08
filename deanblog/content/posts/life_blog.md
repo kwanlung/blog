@@ -53,3 +53,31 @@ series = []
    Spend time on sleep, books, exercise, flowers, birds, trees, mountains, rivers, and your love for this world. Do not waste it on unimportant people and trivial matters.
 
    When you start mastering your time, you’ll feel the quiet power that emerges from a simple life. As for anxiety and unease, they will naturally dissipate like smoke.
+
+---
+
+6. **Money is not something you should spend your whole life earning. Instead, seize the opportunities that allow you to earn in 2-3 years what most people can’t earn in a lifetime.**
+
+So, if you believe you are currently at your most profitable stage, please remind yourself not to rest, okay?
+Because you never know when the next opportunity like this will come again. Once you miss it, it might never come back.
+
+---
+
+7. **Sensitivity + Detachment = Unstoppable in Life**
+
+Don’t pry into other people’s lives, don’t speculate about their thoughts, and don’t dwell on the past or worry about the future. Any person or thing that causes you mental exhaustion isn’t worth a second thought.
+Reclaim your time and energy for yourself. Stay true to your heart amidst the noise of fame and fortune, and walk your own path amidst the scrutiny of the world.
+Translation: "None of your business" + "None of my business" = A peaceful life.
+
+---
+
+8. **Since ancient times, nothing is more dangerous than being overfilled.**
+
+Be half poor, half rich, and live contentedly.
+Be half deaf, half mute, and half oblivious.
+Be half wise, half foolish, and half sage.
+Be half human, half self, and half free.
+Be half awake, half drunk, and half divine.
+Be half affectionate, half suffering, and half joyful.
+Be half worldly, half meditative, and half following destiny.
+Half of life is within your control; the other half, leave to nature.
